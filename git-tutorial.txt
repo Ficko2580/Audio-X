@@ -1,0 +1,9 @@
+GIT TUTORIAL
+################################
+1. git checkout to a branch (php and master currently made)
+php doesn't affect master until you merge, CHANGE PHP FOR TESTING, MASTER FOR FINALS
+2. git add . (ADDS ALL FILES IN DIRECTORY)
+3. git commit -a (commits changes for push)
+4. git push/pull origin (branch name)
+if it asks for credentials: git config --global credential.helper cache
+user: ficko2580
